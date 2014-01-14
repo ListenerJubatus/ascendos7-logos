@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=RHEL7
+
+X-KDE-PluginInfo-Author=Ascendos Team
+X-KDE-PluginInfo-Name=Ascendos
+X-KDE-PluginInfo-Version=0.9
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Settings]
+FallbackTheme=default
+
+[Wallpaper]
+defaultWallpaperTheme=RHEL7
+defaultFileSuffix=.jpg
+defaultWidth=2560
+defaultHeight=1600

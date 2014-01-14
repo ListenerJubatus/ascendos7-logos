@@ -1,0 +1,8 @@
+[KSplash Theme: RHEL7]
+Name = Ascendos
+Description = Default splash screen for KDE
+Version = 7.0
+Author = Based off the orginal KDE Plasma Desktop splash screen
+Homepage = http://www.kde.org
+
+Engine = KSplashX
