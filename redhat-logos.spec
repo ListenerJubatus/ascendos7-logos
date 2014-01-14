@@ -5,7 +5,7 @@ Summary: Ascendos logos and artwork.
 Version: 69.1.9
 Release: 1%{?dist}
 Group: System Environment/Base
-URL: http://www.redhat.com
+URL: http://www.ascendos.org
 # No upstream, done in internal git
 Source0: redhat-logos-%{version}.tar.xz
 License: CC-BY-SA
